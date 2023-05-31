@@ -31,5 +31,6 @@ distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print(round(distance,2))
 ```
 ### OUTPUT:
-![output](output2.png)
+![output](![OUTPUT (2)](https://github.com/Naveensrinivasan07/DISTANCE-BETWEEN-TWO-POINTS/assets/119475891/4ac760f6-08d7-44b3-8715-9e1753dbd772)
+
 
