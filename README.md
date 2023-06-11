@@ -11,8 +11,7 @@ Get the two list forom the user
 import the math module
 
 ### Step 3: 
-Substitute the values in the distance formula ![formula]
-(![FORMULA](https://github.com/Naveensrinivasan07/DISTANCE-BETWEEN-TWO-POINTS/assets/119475891/61026b6e-d09c-41a1-80ed-e6b81ea24f63)
+Substitute the values in the distance formula ![formula](https://github.com/Naveensrinivasan07/DISTANCE-BETWEEN-TWO-POINTS/assets/119475891/61026b6e-d09c-41a1-80ed-e6b81ea24f63)
 
 
 ### Step 4: 
